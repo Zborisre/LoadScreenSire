@@ -8,6 +8,17 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Fontarez';
+    src: url('../fonts/mr_neversmile_neversmile.eot');
+    src: url('../fonts/mr_neversmile_neversmile.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mr_neversmile_neversmile.woff') format('woff'),
+         url('../fonts/mr_neversmile_neversmile.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 * { box-sizing: border-box; }
 
 body {
@@ -38,11 +49,11 @@ h1 {
     top: 0;
     left: 0;
     background: linear-gradient(
-        rgba(3, 169, 244, 0.7),
-        rgba(3, 169, 244, 0.9),
-        rgba(3, 169, 244, 1)
+        rgba(50, 50, 50, 0.8),
+        rgba(50, 50, 50, 0.8),
+        rgba(50, 50, 50, 0.8)
     );
-    width: 100%;
+    width: 30%;
     height: 100%;
 }
 
