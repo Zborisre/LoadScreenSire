@@ -12,7 +12,7 @@ gmodLS.steamWebApiKey = '64CDF653E45DFF6144F74EE6501C43A5';
  * Will be centered and streched if needed to the users resolution
  * @type {String}
  */
-gmodLS.backgroundImg  = 'https://steamuserimages-a.akamaihd.net/ugc/1752431099066168763/92263F48AF1CA33D91FC29CF4744724513855364/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false';
+gmodLS.backgroundImg  = 'https://i.ibb.co/XZ1vTHn/Star-wars-Geonosis-OPTRE-Kholo.jpg';
 
 /**
  * If you want music played in background add your music files here.
